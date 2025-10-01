@@ -1,0 +1,21 @@
+{
+    "notification_title": "Robbery ATM",
+    "notification_noobeject_message": "You dont have the correct equipment!",
+    "notification_startatm_message": "You start the ATM robbery",
+    "notification_success_rob": "You have successfully hacked the ATM",
+    "notification_not_completed_atm_message": "You failed to hack ATM",
+    "notification_timeleft_partone": "You must wait ",
+    "notification_timeleft_parttwo": " minutes before being able to rob the ATM again",
+    "notification_stolen_gain": "Success! You stole:  ",
+    "target_rob_atm": "Robbing the ATM",
+    "progress_insertion_card": "Card Insertion",
+    "progress_money_recovery": "Money recovery",
+    "not_enough_police": "There Is Not Enough Police In City!",
+    "police_alert": "ATM robbery in progress. ",
+    "police_alert_title": "ATM Robbery",
+    "blips_alert_police": "911 - ATM Robbery",
+    "logs_success": "{{playerName}} (ID: {{playerId}}) successfully robbed the ATM.\n License: {{playerIdentifier}}",
+    "logs_failure": "{{playerName}} (ID: {{playerId}}) failed to rob the ATM. Time left: {{timeLeft}} minutes.\n License: {{playerIdentifier}}",
+    "logs_gain": "{{playerName}} (ID: {{playerId}}) received a reward of £{{reward}} after the robbery.\n License: {{playerIdentifier}}",
+    "robbery_active": "You are already robbing the ATM!"
+}
